@@ -123,4 +123,4 @@ while true; do
     log "Próxima revisión en ${INTERVALO} segundos."
     log "________________"
     sleep "$INTERVALO"
-done
+donetest post-reinicio
